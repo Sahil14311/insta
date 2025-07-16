@@ -1,1 +1,1 @@
-{'idType':'string', 'idName':'sahitya_header'}
+{'idType':'drawable', 'ic_repost_variant', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}
