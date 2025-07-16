@@ -1,1 +1,1 @@
-{'idType':'drawable', 'ic_repost_variant', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}
+{'idType':'color', 'idName':'ic_repost_variant', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}
